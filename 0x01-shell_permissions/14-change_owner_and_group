@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod
+sudo chown --reference=reference_betty holberton
