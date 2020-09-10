@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --reference=reference_betty holberton
+sudo chown -R betty:holberton *
