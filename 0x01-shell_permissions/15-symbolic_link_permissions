@@ -1,2 +1,3 @@
 #!/bin/bash
-pts chmod _hello betty  holberton
+chown betty:holberton _hello
+
