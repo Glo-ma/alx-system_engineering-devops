@@ -1,3 +1,4 @@
+#!/bin/bash
 man(2)                                                         eniac man page                                                            man(2)
 NAME
     eniac: - the first electronic general-purpose digital computer.
@@ -14,4 +15,4 @@ BUGS
 AUTHOR
     University of pennsylvania.
 0.32                                           10 December 1945                                                                         man(2)
-Manual page a line 1/28 (END) (press h for help or q to quit) 
+
