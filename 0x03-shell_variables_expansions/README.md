@@ -1,0 +1,1 @@
+This scripts gives shell concepts on variables and expansions.
